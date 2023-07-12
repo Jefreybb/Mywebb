@@ -1,0 +1,20 @@
+2023-06-30 17:03:52.997 [info] 
+
+
+
+
+2023-06-30 17:03:52.997 [info] Extension host agent started.
+2023-06-30 17:03:53.002 [info] Started initializing default profile extensions in extensions installation folder. file:///home/j_barrera/.vscode-server/extensions
+2023-06-30 17:03:53.015 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/j_barrera/.vscode-server/extensions
+2023-06-30 17:03:53.220 [info] [127.0.0.1][8ae72e76][ManagementConnection] New connection established.
+2023-06-30 17:03:53.446 [info] [127.0.0.1][7654eabd][ExtensionHostConnection] New connection established.
+2023-06-30 17:03:53.464 [info] [127.0.0.1][7654eabd][ExtensionHostConnection] <704> Launched Extension Host Process.
+2023-06-30 17:09:28.204 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-30 17:09:28.330 [info] Installing extension: ritwickdey.liveserver
+2023-06-30 17:09:30.243 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-30 17:09:32.779 [info] Extracted extension to /home/j_barrera/.vscode-server/extensions/.67244340-b4ea-44ab-90c4-90546f3dab27: ritwickdey.liveserver
+2023-06-30 17:09:32.793 [info] Renamed to /home/j_barrera/.vscode-server/extensions/ritwickdey.liveserver-5.7.9
+2023-06-30 17:09:32.794 [info] Extracting extension completed. ritwickdey.liveserver
+2023-06-30 17:09:32.803 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-30 17:13:57.776 [info] [127.0.0.1][8ae72e76][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-30 17:13:57.824 [info] [127.0.0.1][7654eabd][ExtensionHostConnection] <704> Extension Host Process exited with code: 0, signal: null.

@@ -1,0 +1,21 @@
+2023-06-30 17:14:05.707 [info] 
+
+
+
+
+2023-06-30 17:14:05.720 [info] Extension host agent started.
+2023-06-30 17:14:05.926 [info] [127.0.0.1][aa5330fe][ManagementConnection] New connection established.
+2023-06-30 17:14:06.143 [info] [127.0.0.1][30a5c2c9][ExtensionHostConnection] New connection established.
+2023-06-30 17:14:06.148 [info] [127.0.0.1][30a5c2c9][ExtensionHostConnection] <1081> Launched Extension Host Process.
+2023-06-30 17:14:34.999 [info] Uninstalling extension from the profile: ritwickdey.liveserver@5.7.9 file:///home/j_barrera/.vscode-server/extensions/extensions.json
+2023-06-30 17:14:35.013 [info] Marked extension as uninstalled ritwickdey.liveserver-5.7.9
+2023-06-30 17:14:35.251 [info] Successfully uninstalled extension from the profile ritwickdey.liveserver@5.7.9 file:///home/j_barrera/.vscode-server/extensions/extensions.json
+2023-06-30 17:15:08.378 [info] Getting Manifest... ritwickdey.liveserver
+2023-06-30 17:15:08.477 [info] Installing extension: ritwickdey.liveserver
+2023-06-30 17:15:09.464 [info] Extension signature is verified: ritwickdey.liveserver
+2023-06-30 17:15:09.466 [info] Removed the extension from uninstalled list: ritwickdey.liveserver
+2023-06-30 17:15:09.479 [info] Extension installed successfully: ritwickdey.liveserver
+2023-06-30 17:20:58.756 [info] [127.0.0.1][30a5c2c9][ExtensionHostConnection] <1081> [0mGET /favicon.ico [33m404[0m 1.038 ms - 150[0m
+
+2023-06-30 17:25:39.339 [info] [127.0.0.1][aa5330fe][ManagementConnection] The client has disconnected gracefully, so the connection will be disposed.
+2023-06-30 17:25:39.384 [info] [127.0.0.1][30a5c2c9][ExtensionHostConnection] <1081> Extension Host Process exited with code: 0, signal: null.
